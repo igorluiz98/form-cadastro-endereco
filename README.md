@@ -1,6 +1,7 @@
 # Formulário de Endereço com ViaCEP e Dark Mode
 
-Projeto front-end desenvolvido com HTML, CSS e JavaScript puro, com foco em manipulação do DOM, requisições HTTP, persistência de dados com Web Storage API e boas práticas de organização de código.
+📋 Projeto front-end desenvolvido com HTML, CSS e JavaScript puro, com foco em manipulação do DOM, requisições HTTP, persistência de dados com Web Storage API e boas práticas de organização de código.
+
 
 🧾 Descrição do Projeto:
 Este projeto consiste em um formulário de cadastro de endereço que:
@@ -10,6 +11,7 @@ Preenche os campos do formulário de forma automática
 Salva os dados preenchidos no localStorage
 Restaura os dados ao recarregar a página
 Possui modo claro e modo escuro (Dark Mode) com persistência da preferência do usuário
+
 
 🛠️ Tecnologias Utilizadas:
 HTML5
