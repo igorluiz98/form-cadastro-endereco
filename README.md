@@ -57,8 +57,8 @@ O tema é reaplicado automaticamente ao carregar a página
 📁 projeto/
 │
 ├── index.html        # Estrutura do formulário
-├── style.css         # Estilização e dark mode
-└── fetchAPI.js       # Lógica JavaScript (CEP, storage e tema)
+├── styles.css         # Estilização e dark mode
+└── script.js       # Lógica JavaScript (CEP, storage e tema)
 
 🧠 Conceitos Aplicados
 Manipulação do DOM
